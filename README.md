@@ -50,7 +50,7 @@ I'm a **Mechatronics Engineering Student** and a passionate Software Developer s
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammertasci11&theme=vision&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakNum=2DD4BF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammertasci11&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakNum=2DD4BF&sideNums=ffffff&sideLabels=c9d1d9&currStreakLabel=ffffff&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ---
