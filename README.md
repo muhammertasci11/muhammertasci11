@@ -45,8 +45,8 @@ I'm a **Mechatronics Engineering Student** and a passionate Software Developer s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammertasci11&show_icons=true&theme=vision&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2DD4BF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammertasci11&layout=compact&theme=vision&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammertasci11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammertasci11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
