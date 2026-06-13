@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammed+Taşçı+👋;Full-Stack+Developer;AI+%26+Automation+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi,+I'm+Muhammed+Taşçı+👋;Mechatronics+Engineering+Student;AI,+Software+%26+Automation;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate Software Developer specializing in building modern, high-performance applications. My expertise spans across desktop application modernization (WPF/.NET), web technologies (Next.js/React), and integrating cutting-edge Artificial Intelligence (Autonomous Agents, LLM Integrations). I thrive on transforming complex problems into elegant, user-friendly solutions.
+I'm a **Mechatronics Engineering Student** and a passionate Software Developer specializing in building modern, high-performance systems. My expertise spans across desktop application engineering (WPF/.NET), web technologies (Next.js/React), and integrating cutting-edge Artificial Intelligence (Autonomous Agents, LLM Integrations). I thrive at the intersection of hardware and software, transforming complex engineering problems into elegant, automated solutions.
 
 - 🔭 I’m currently working on **Autonomous Engineering Core (Antigravity)** & **Dosyaktar**
 - 🧠 I’m deeply focused on **Agentic AI workflows, LLMs, and Advanced Desktop Automation**
